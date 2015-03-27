@@ -13,7 +13,7 @@ INT WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrevInst, LPSTR lpszCmdLine,
 {
 	HWND hWnd;
 	MSG lpMsg;
-	WNDCLASSEX wcl;
+	WNDCLASSEX wcl; 
 
 	/* 1. Определение класса окна  */
 
